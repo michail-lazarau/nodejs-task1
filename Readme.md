@@ -1,3 +1,3 @@
 # Node.js basics
 
-## !!! Please don't submit Pull Requests to this repository !!!
+Please, see the PR for the first task here: https://github.com/michail-lazarau/nodejs-task1/pull/1
